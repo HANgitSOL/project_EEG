@@ -13,7 +13,7 @@ For next week, we'll just look at the decoding session shallowly.<br>
 ### slide file🧑‍🏫
 There are specific examples about applications of functions and explanation about that function in _.pptx_.<br>
 In the explanation about function, some elements are mentioned specifically, i.e. the type of variable, the meaning of variable, etc. .<br>
-If you need more explanation about function, check the internet site mentioned in the **memo** of that page.<br>
+If you need more explanation about function, check the internet site mentioned in the **note** of that page.<br>
 
 - - -
 
